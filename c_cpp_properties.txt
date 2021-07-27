@@ -1,0 +1,20 @@
+c_cpp_properties.json:
+
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "gnu17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "windowsSdkVersion": "10.0.15063.0"
+        }
+    ],
+    "version": 4
+}

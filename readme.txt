@@ -1,0 +1,2 @@
+In addition to my headers and source file, I've also attached the .json files for reference in case my code doesn't compile properly.
+Also, please see my report before making an especially complicated circuit; there are some caveats!
